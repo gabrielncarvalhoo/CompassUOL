@@ -17,6 +17,7 @@
 - [Introdução](../README.md)
 - [Resumo de Git e Gitlab](./Resumos/git.md)
 - [Resumo de Markdown](./Resumos/markdown.md)
+- [Resumo de Scrum](./Resumos/Scrum.md)
 
 ### Conteúdos da Sprint
 
