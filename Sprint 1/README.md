@@ -8,15 +8,15 @@
 
 ### Tecnologias
 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](./Resumos/gitmark.md)
-[![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](./Resumos/gitmark.md)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](./Resumos/gitmark.md)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](./Resumos/dia1.md)
+[![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](./Resumos/dia1.md)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](./Resumos/dia1.md)
 
 ### Entregas Resumos da Sprint
 
 - [Introdução](../README.md)
-- [Resumo dia 1](./Resumos/gitmark.md)
-- [Resumo dia 2](./Resumos/Scrum.md)
+- [Resumo dia 1](./Resumos/dia1.md)
+- [Resumo dia 2](./Resumos/dia2.md)
 
 ### Conteúdos da Sprint
 

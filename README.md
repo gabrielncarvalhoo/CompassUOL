@@ -20,21 +20,21 @@
 
 ## Agenda de Sprints
 
-- [ ]​​​ #Sprint 1 - Processos Ágeis e Fundamentos de Teste (24/09 a 04/10)
-- ​[ ]​ #Sprint 2 - 
-- ​[ ] #Sprint 3 - 
-- ​[ ] #Sprint 4 - 
-- ​[ ] #Sprint 5 - 
-- ​[ ] #Sprint 6 - 
-- ​[ ] #Sprint 7 - 
-- ​[ ] #Sprint 8 - 
+- ⌛​​​ #Sprint 1 - Processos Ágeis e Fundamentos de Teste (24/09 a 04/10)
+- ​🛑​ #Sprint 2 - 
+- ​🛑​ #Sprint 3 - 
+- ​🛑​ #Sprint 4 - 
+- ​🛑​ #Sprint 5 - 
+- ​🛑​ #Sprint 6 - 
+- ​🛑​ #Sprint 7 - 
+- ​🛑​ #Sprint 8 - 
 
 
 ### Tecnologias | Sprint 1
 
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](./Sprint%201/Resumos/gitmark.md)
-[![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](./Sprint%201/Resumos/gitmark.md)
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](./Sprint%201/Resumos/gitmark.md)
+[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](./Sprint%201/Resumos/dia1.md)
+[![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](./Sprint%201/Resumos/dia1.md)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](./Sprint%201/Resumos/dia1 Troca de ícones .md)
 
 ## Contato e Redes sociais
 
