@@ -1,3 +1,5 @@
+# RESUMO DIA 2
+
 # Fundamentos do SCRUM Agile
 
 ## O que é SCRUM?
