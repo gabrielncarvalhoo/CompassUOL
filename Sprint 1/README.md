@@ -19,6 +19,7 @@
 - [Resumo dia 2](./Resumos/dia2.md)
 - [Resumo dia 3](./Resumos/dia3.md)
 - [Resumo dia 4](./Resumos/dia4.md)
+- [Resumo dia 5](./Resumos/dia5.md)
 
 ### Conteúdos da Sprint
 
@@ -33,7 +34,20 @@
 - Myers e o princípio de Pareto
 - Fundamentos de CyberSecurity
 
-#
+---
+
+### Agradecimentos
+
+Gostaria de expressar minha gratidão aos colegas que me ajudaram ao longo do Sprint 1:
+
+- **Kaio Ricardo Moreira Pinto da Silva**
+- **Layla Kethlen Ramos Apolinario**
+- **Renata Cardoso Mantovani**
+- **Gabriel Morais Pinto Costa**
+
+Obrigado por todo o apoio e colaboração!
+
+---
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielndcarvalho@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnobcarvalho/)
