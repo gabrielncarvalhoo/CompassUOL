@@ -14,10 +14,11 @@
 
 ### Entregas e Resumos da Sprint
 
-- [Introdução](../README.md)
+- [Apresentação](../README.md)
 - [Resumo dia 1](./Resumos/dia1.md)
 - [Resumo dia 2](./Resumos/dia2.md)
 - [Resumo dia 3](./Resumos/dia3.md)
+- [Resumo dia 4](./Resumos/dia4.md)
 
 ### Conteúdos da Sprint
 

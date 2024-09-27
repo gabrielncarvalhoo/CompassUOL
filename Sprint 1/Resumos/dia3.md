@@ -1,6 +1,6 @@
 # RESUMO DIA 3
 
-## Seção 1 - Fundamentos de Carreira e Teste/QA
+## Seção 1 - Início Rápido em Teste e QA
 
 ### 1. Carreira e Teste/QA
 A seção começa abordando o mercado de trabalho e salários para profissionais de teste e QA. Há uma crescente demanda no mercado por essas funções, e os salários variam conforme a experiência e a região. QA é uma carreira promissora e em expansão, com grandes oportunidades para crescimento.
