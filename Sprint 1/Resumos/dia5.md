@@ -71,3 +71,14 @@ Ao fornecer feedbacks sobre falhas e defeitos, os testadores devem ter sensibili
 
 ### Conclusão
 O processo de teste é uma parte essencial do ciclo de vida do desenvolvimento de software. Ele envolve atividades relacionadas ao planejamento e execução dos testes para garantir que o produto atenda aos requisitos especificados e esteja em conformidade com as expectativas dos stakeholders.
+
+---
+
+**Grupo:**
+- Gabriel Nóbrega de Carvalho
+- Kaio Ricardo Moreira Pinto da Silva
+- Layla Kethlen Ramos Apolinario
+- Renata Cardoso Mantovani
+- Gabriel Morais Pinto Costa
+
+---
