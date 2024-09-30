@@ -20,7 +20,7 @@
 
 ## Agenda de Sprints
 
-- ⌛​​​ #Sprint 1 - Processos Ágeis e Fundamentos de Teste (24/09 a 04/10)
+- ⌛​​​ [#Sprint 1 - Processos Ágeis e Fundamentos de Teste (24/09 a 04/10)](./Sprint%201/README.md)
 - ​🛑​ #Sprint 2 - 
 - ​🛑​ #Sprint 3 - 
 - ​🛑​ #Sprint 4 - 

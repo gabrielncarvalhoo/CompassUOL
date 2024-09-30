@@ -20,6 +20,7 @@
 - [Resumo dia 3](./Resumos/dia3.md)
 - [Resumo dia 4](./Resumos/dia4.md)
 - [Resumo dia 5](./Resumos/dia5.md)
+- [Resumo dia 6](./Resumos/dia6.md)
 
 ### Conteúdos da Sprint
 
