@@ -1,0 +1,66 @@
+[
+    {
+        "nome": "Teste Start",
+        "email": "start@challenge.com"
+    },
+    {
+        "nome": "Fulano de Tal",
+        "email": "fulano@qa.com"
+    },
+    {
+        "nome": "Carlos João",
+        "email": "carlosjoao@qa.com"
+    },
+    {
+        "nome": "Ghost Silva",
+        "email": "ghost_silva@fantasma.com"
+    },
+    {
+        "nome": "Peter Parker",
+        "email": "peterparker@marvel.com"
+    },
+    {
+        "nome": "Maria Aparecida",
+        "email": "mariaaparecida@qa.com"
+    },
+    {
+        "nome": "Sebastião Levi Nunes",
+        "email": "sebastiao123@teste.com"
+    },
+    {
+        "nome": "Maitê Giovana Regina Lopes",
+        "email": "maite-lopes90@outershoes.com.br"
+    },
+    {
+        "nome": "Filipe Renato Ribeiro",
+        "email": "filipe.renato.ribeiro@cdcd.com.br"
+    },
+    {
+        "nome": "Lucca Ryan Jesus",
+        "email": "lucca_ryan_jesus@imoveisvillani.com.br"
+    },
+    {
+        "nome": "Raimunda Luana Fabiana Nascimento",
+        "email": "raimunda-nascimento98@cressem.com.br"
+    },
+    {
+        "nome": "Luana Marina Araújo",
+        "email": "luana-araujo72@expressotaubate.com.br"
+    },
+    {
+        "nome": "Bruce Wayne",
+        "email": "brucewayne@gothan.com"
+    },
+    {
+        "nome": "Carla Mariah dos Santos",
+        "email": "carla_dossantos@ept.com.br"
+    },
+    {
+        "nome": "Jennifer Agatha Pires",
+        "email": "jennifer.agatha.pires@macroengenharia.com",
+    },
+    {
+        "nome": "Luan Anderson Gonçalves",
+        "email": "luan_goncalves@moncoes.com.br"
+    }
+  ]

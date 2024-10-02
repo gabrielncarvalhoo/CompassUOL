@@ -12,6 +12,7 @@
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](./Resumos/dia1.md)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](./Resumos/dia1.md)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](./Resumos/dia7.md)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Entregas e Resumos da Sprint
 
@@ -23,6 +24,7 @@
 - [Resumo dia 5](./Resumos/dia5.md)
 - [Resumo dia 6](./Resumos/dia6.md)
 - [Resumo dia 7](./Resumos/dia7.md)
+- [Resumo dia 8](./Resumos/dia8.md)
 
 ### Conteúdos da Sprint
 
