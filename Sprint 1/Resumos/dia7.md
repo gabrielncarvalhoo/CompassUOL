@@ -54,7 +54,7 @@ Com o banco de dados configurado, foram realizadas Querys para consultas e manip
 ### Querys a serem realizadas:
 
 #### 1. Tabela de Usuários
-![Tabela](./tabelaUsuarios.png)
+![Tabela](../Exercícios/SQL/tabelaUsuarios.png)
 Baseando-se na tabela de **Usuários**, execute as seguintes Querys:
 
 1. **Realizar uma consulta que conte o número de registros na tabela:**
@@ -84,20 +84,20 @@ Baseando-se na tabela de **Usuários**, execute as seguintes Querys:
    ```sql
    SELECT * FROM usuarios WHERE email = 'ghost_silva@fantasma.com';
    ```
-   ![Query4](../Exercícios/SQLQuery4usuarios.png)
+   ![Query4](../Exercícios/SQL/query4usuarios.png)
 
 5. **Realizar uma consulta para deletar o usuário com e-mail "peterparker@marvel.com":**
 
    ```sql
    DELETE FROM usuarios WHERE email = 'peterparker@marvel.com';
    ```
-   ![Query5](../Exercícios/SQL/Query5usuarios.png)
-   ![Query5t](../Exercícios/SQL/Query5usuariosTabela.png)
+   ![Query5](../Exercícios/SQL/query5usuarios.png)
+   ![Query5t](../Exercícios/SQL/query5usuariosTabela.png)
 
 ---
 
 #### 2. Tabela de Produtos
-![Tabela2](./tabelaProdutos.png)
+![Tabela2](../Exercícios/SQL/tabelaProdutos.png)
 Baseando-se na tabela de **Produtos**, execute as seguintes Querys:
 
 1. **Realizar uma consulta que apresente produtos com descrição vazia:**
@@ -105,28 +105,28 @@ Baseando-se na tabela de **Produtos**, execute as seguintes Querys:
    ```sql
    SELECT * FROM produtos WHERE descricao = '';
    ```
-   ![Query1](../Exercícios/SQL/Query1produtos.png)
+   ![Query1](../Exercícios/SQL/query1produtos.png)
 
 2. **Realizar uma consulta que apresente produtos com a categoria "games":**
 
    ```sql
    SELECT * FROM produtos WHERE categoria = 'games';
    ```
-   ![Query2](../Exercícios/SQL/Query2produtos.png)
+   ![Query2](../Exercícios/SQL/query2produtos.png)
 
 3. **Realizar uma consulta que apresente produtos com preço "0":**
 
    ```sql
    SELECT * FROM produtos WHERE preco = 0;
    ```
-   ![Query3](../Exercícios/SQL/Query3produtos.png)
+   ![Query3](../Exercícios/SQL/query3produtos.png)
 
 4. **Realizar uma consulta que apresente produtos com o preço maior que "100.00":**
 
    ```sql
    SELECT * FROM produtos WHERE preco > 100.00;
    ```
-   ![Query4](../Exercícios/SQL/Query4produtos.png)
+   ![Query4](../Exercícios/SQL/query4produtos.png)
 
 
 5. **Realizar uma consulta que apresente produtos com o preço entre "1000.00" e "2000.00":**
@@ -134,14 +134,14 @@ Baseando-se na tabela de **Produtos**, execute as seguintes Querys:
    ```sql
    SELECT * FROM produtos WHERE preco BETWEEN 1000.00 AND 2000.00;
    ```
-   ![Query5](../Exercícios/SQL/Query5produtos.png)
+   ![Query5](../Exercícios/SQL/query5produtos.png)
 
 6. **Realizar uma consulta que apresente produtos em que o nome contenha a palavra "jogo":**
 
    ```sql
    SELECT * FROM produtos WHERE nome LIKE '%jogo%';
    ```
-   ![Query6](../Exercícios/SQL/Query6produtos.png)
+   ![Query6](../Exercícios/SQL/query6produtos.png)
 
 ---
 
