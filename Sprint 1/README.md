@@ -25,6 +25,7 @@
 - [Resumo dia 6](./Resumos/dia6.md)
 - [Resumo dia 7](./Resumos/dia7.md)
 - [Resumo dia 8](./Resumos/dia8.md)
+- [Resumo dia 9](./Resumos/dia9.md)
 
 ### Conteúdos da Sprint
 

@@ -1,20 +1,31 @@
-# Resumo do Dia 8 
+# 📚 RESUMO DIA 8 - NOSQL
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ---
-## NOSQL
 
-### MongoDB
+## 📑 Índice
 
--   **Modelo de dados:** NoSQL, baseado em documentos no formato JSON (JavaScript Object Notation), similar a objetos em programação.
--   **Linguagem de consulta:** MQL (MongoDB Query Language), uma linguagem específica para MongoDB, com sintaxe similar a JavaScript.
--   **Recursos:** Flexibilidade de esquema, permitindo que documentos tenham estruturas diferentes. Escalabilidade horizontal, facilitando a distribuição de dados em vários servidores. Alta performance para leitura e escrita, ideal para aplicações com grande volume de dados.
--   **Ideal para:** Aplicações que exigem alta escalabilidade, flexibilidade de dados e processamento de grandes volumes de dados, como aplicações web e mobile, redes sociais e jogos online.
+1. [Introdução ao MongoDB](#mongodb)
+2. [Códigos Básicos](#códigos-básicos)
+3. [Exercício Prático: Exercitando NoSQL](#exercício-prático--exercitando-nosql)
 
-**Códigos básicos:**
+---
 
-JavaScript
+## MongoDB
 
-```
+- **Modelo de dados:** NoSQL, baseado em documentos no formato JSON (JavaScript Object Notation), similar a objetos em programação.
+- **Linguagem de consulta:** MQL (MongoDB Query Language), uma linguagem específica para MongoDB, com sintaxe similar a JavaScript.
+- **Recursos:** Flexibilidade de esquema, permitindo que documentos tenham estruturas diferentes. Escalabilidade horizontal, facilitando a distribuição de dados em vários servidores. Alta performance para leitura e escrita, ideal para aplicações com grande volume de dados.
+- **Ideal para:** Aplicações que exigem alta escalabilidade, flexibilidade de dados e processamento de grandes volumes de dados, como aplicações web e mobile, redes sociais e jogos online.
+
+---
+
+## Códigos Básicos
+
+Aqui estão alguns exemplos básicos de comandos MongoDB em **JavaScript**:
+
+```javascript
 // Adicionar um produto
 db.produtos.insertOne({ nome: "Camiseta", descricao: "Camiseta de algodão", preco: 29.90 });
 
@@ -26,16 +37,18 @@ db.produtos.find({ preco: { $gt: 50 } });
 
 // Remover um produto por nome
 db.produtos.deleteOne({ nome: "Camiseta" });
-
 ```
-#### Exercício Prático :: Exercitando NoSQL
+
+---
+
+## Exercício Prático : Exercitando NoSQL
 
 Neste exercício prático, utilizamos o site [Humongous.io](https://www.humongous.io/app/playground/mongodb/new) como uma plataforma online para executar queries NoSQL em **MongoDB**. A seguir, um resumo das etapas de configuração e das consultas realizadas.
 
-#### Configuração do Ambiente
+### Configuração do Ambiente
 
 1. Acesse o site [Humongous.io](https://www.humongous.io/app/playground/mongodb/new);
-2. Cole as collections de dados fornecidas ([bson_usuarios.json](../Exercícios/NoSQL/bson_usuarios.txt) e [bson_produtos.json](../Exercícios/NoSQL/bson_produtos.txt)) no campo de dados;
+2. Cole as collections de dados fornecidas ([bson_usuarios.txt](../Exercícios/NoSQL/bson_usuarios.txt) e [bson_produtos.txt](../Exercícios/NoSQL/bson_produtos.txt)) no campo de dados;
 3. Agora, o banco de dados está pronto para executar as queries na aba **Query**, clicando no botão **Run**.
 
 ---

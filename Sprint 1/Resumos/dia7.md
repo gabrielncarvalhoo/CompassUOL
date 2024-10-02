@@ -1,23 +1,31 @@
-### RESUMO DIA 7
+# 📚 RESUMO DIA 7 - SQL
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](./dia7.md)
 
-#
+---
 
-## SQL
+## 📑 Índice
 
-### PostgreSQL
+1. [Introdução ao PostgreSQL](#postgresql)
+2. [Códigos Básicos em SQL](#códigos-básicos-em-sql)
+3. [Exercício Prático: Exercitando SQL](#exercício-prático-exercitando-sql)
 
--   **Modelo de dados:** Relacional, baseado em tabelas com linhas e colunas, como uma planilha.
--   **Linguagem de consulta:** SQL (Structured Query Language), uma linguagem padronizada e poderosa para interagir com os dados.
--   **Recursos:** ACID properties (Atomicidade, Consistência, Isolamento, Durabilidade), garantindo a integridade dos dados em caso de falhas. Suporta transações, triggers, stored procedures e funções, oferecendo grande flexibilidade.
--   **Ideal para:** Aplicações que exigem integridade de dados, transações complexas e conformidade com ACID, como sistemas financeiros, de gerenciamento de estoque e e-commerce.
+---
 
-**Códigos básicos:**
+## PostgreSQL
 
-SQL
+- **Modelo de dados:** Relacional, baseado em tabelas com linhas e colunas, semelhante a uma planilha.
+- **Linguagem de consulta:** SQL (**Structured Query Language**), uma linguagem padronizada e poderosa para interagir com os dados.
+- **Recursos:** Propriedades **ACID** (Atomicidade, Consistência, Isolamento, Durabilidade), garantindo a integridade dos dados em caso de falhas. Suporta transações, triggers, stored procedures e funções, oferecendo grande flexibilidade.
+- **Ideal para:** Aplicações que exigem integridade de dados, transações complexas e conformidade com ACID, como sistemas financeiros, de gerenciamento de estoque e e-commerce.
 
-```
+---
+
+## Códigos Básicos em SQL
+
+Aqui estão alguns exemplos básicos de comandos SQL para o **PostgreSQL**:
+
+```sql
 -- Criar uma tabela de produtos
 CREATE TABLE produtos (
     id SERIAL PRIMARY KEY,
@@ -27,7 +35,8 @@ CREATE TABLE produtos (
 );
 
 -- Adicionar um produto
-INSERT INTO produtos (nome, descricao, preco) VALUES ('Camiseta', 'Camiseta de algodão', 29.90);
+INSERT INTO produtos (nome, descricao, preco) 
+VALUES ('Camiseta', 'Camiseta de algodão', 29.90);
 
 -- Pesquisar um produto por nome
 SELECT * FROM produtos WHERE nome = 'Camiseta';
@@ -37,17 +46,19 @@ SELECT * FROM produtos WHERE preco > 50;
 
 -- Remover um produto por ID
 DELETE FROM produtos WHERE id = 1;
-
 ```
-## Exercício Prático : Exercitando SQL
 
-Neste exercício de SQL, utilizamos o site [sqliteonline.com](https://sqliteonline.com/) como compilador para executar Querys SQL. As etapas para configurar o banco de dados foram as seguintes:
+---
+
+## Exercício Prático: Exercitando SQL
+
+Neste exercício de SQL, utilizamos o site [sqliteonline.com](https://sqliteonline.com/) como compilador para executar **Querys SQL**. As etapas para configurar o banco de dados foram as seguintes:
 
 1. Acessar o site [sqliteonline.com](https://sqliteonline.com/) e conectar ao banco PostgreSQL;
-2. Importar o arquivo [sqliteonline.com](../Exercícios/SQL/database_challenge.sql) via opção **Open SQL**;
+2. Importar o arquivo [`database_challenge.sql`](../Exercícios/SQL/database_challenge.sql) via opção **Open SQL**;
 3. Executar o script para criar as tabelas necessárias.
 
-Com o banco de dados configurado, foram realizadas Querys para consultas e manipulações nas tabelas de **Usuários** e **Produtos**, abordando operações como contagem de registros, filtragem por atributos específicos, exclusão de registros e consultas com condições de intervalo.
+Com o banco de dados configurado, foram realizadas querys para consultas e manipulações nas tabelas de **Usuários** e **Produtos**, abordando operações como contagem de registros, filtragem por atributos específicos, exclusão de registros e consultas com condições de intervalo.
 
 ---
 

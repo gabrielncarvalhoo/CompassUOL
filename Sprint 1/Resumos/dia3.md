@@ -1,30 +1,100 @@
-# RESUMO DIA 3
+# 📚 RESUMO DIA 3 - Fundamentos do teste de software
+
+## 📑 Índice
+
+- [Seção 1 - Início Rápido em Teste e QA](#seção-1---início-rápido-em-teste-e-qa)
+  - [Carreira e Teste/QA](#1-carreira-e-testeqa)
+  - [Por que o próprio desenvolvedor não testa?](#2-por-que-o-próprio-desenvolvedor-não-testa)
+  - [Habilidades Pessoais do Testador/QA](#3-habilidades-pessoais-do-testadorqa)
+  - [Habilidades Interpessoais do Testador/QA](#4-habilidades-interpessoais-do-testadorqa)
+  - [Trabalho em Equipe](#5-trabalho-em-equipe)
+  - [Hard Skills do QA](#6-hard-skills-do-qa)
+  - [Débito Técnico](#7-débito-técnico)
+
+---
 
 ## Seção 1 - Início Rápido em Teste e QA
 
 ### 1. Carreira e Teste/QA
-A seção começa abordando o mercado de trabalho e salários para profissionais de teste e QA. Há uma crescente demanda no mercado por essas funções, e os salários variam conforme a experiência e a região. QA é uma carreira promissora e em expansão, com grandes oportunidades para crescimento.
+
+- **Mercado de trabalho**: Crescente demanda por profissionais de teste e QA
+- **Salários**: Variam conforme experiência e região
+- **Oportunidades**: Carreira promissora e em expansão, com grande potencial de crescimento
+
+---
 
 ### 2. Por que o próprio desenvolvedor não testa?
-Aqui é discutido por que o desenvolvedor não deve ser o principal responsável pelos testes. Como o desenvolvedor está focado em fazer o código funcionar, ele pode ter dificuldade em identificar problemas. A mentalidade de "fazer funcionar" contrasta com a do QA, que procura ativamente por erros e falhas.
+
+- **Mentalidade**: Desenvolvedor focado em fazer o código funcionar
+- **Identificação de problemas**: Dificuldade em encontrar erros no próprio código
+- **Contraste**: QA ativamente procura por erros e falhas
+
+---
 
 ### 3. Habilidades Pessoais do Testador/QA
-São mencionadas as principais qualidades pessoais que um testador/QA deve ter, como motivação, **persistência**, **curiosidade**, **perfeccionista**, **foco na solução e não no problema**, entre outras. Essas habilidades ajudam o QA a desempenhar seu trabalho de maneira eficaz.
+
+Qualidades essenciais:
+- **Motivação**
+- **Persistência**
+- **Curiosidade**
+- **Perfeccionismo**
+- **Foco na solução, não no problema**
+
+---
 
 ### 4. Habilidades Interpessoais do Testador/QA
-Esta parte aborda como o QA deve interagir com outros membros da equipe. Habilidades como **comunicação assertiva**, **empatia**, **Trabalho em equipe** e **Negociação** são essenciais para garantir um bom ambiente de trabalho e colaboração eficaz com desenvolvedores e outros stakeholders.
+
+Competências para interação eficaz:
+- **Comunicação assertiva**
+- **Empatia**
+- **Trabalho em equipe**
+- **Negociação**
+
+---
 
 ### 5. Trabalho em Equipe
-A colaboração com desenvolvedores, analistas de negócios e outros stakeholders é fundamental. O QA deve se comunicar bem, entendendo as necessidades de cada área e garantindo que o produto final atenda às expectativas de todos.
+
+- **Colaboração**: Fundamental com desenvolvedores, analistas de negócios e stakeholders
+- **Comunicação**: Compreensão das necessidades de cada área
+- **Objetivo**: Garantir que o produto final atenda às expectativas de todos
+
+---
 
 ### 6. Hard Skills do QA
-Este ponto foca nas competências técnicas essenciais (hard skills) que um QA deve dominar e alguns exemplos:
-- **Habilidades gerais**: organização, habiliddes básicas na computação, metodologias de trabalho.
-- **Conhecimento de negócios**: compreensão do produto, mercado, regras e usuários.
-- **Tecnologia**: ferramentas, lógica, linguagens de programação, infraestrutura e banco de dados.
-- **Teste e QA**: técnicas de teste, ferramentas, práticas, processos e execução de planos de teste.
+
+Competências técnicas essenciais:
+
+1. **Habilidades gerais**:
+   - Organização
+   - Habilidades básicas na computação
+   - Metodologias de trabalho
+
+2. **Conhecimento de negócios**:
+   - Compreensão do produto
+   - Mercado
+   - Regras e usuários
+
+3. **Tecnologia**:
+   - Ferramentas
+   - Lógica
+   - Linguagens de programação
+   - Infraestrutura
+   - Banco de dados
+
+4. **Teste e QA**:
+   - Técnicas de teste
+   - Ferramentas
+   - Práticas e processos
+   - Execução de planos de teste
+
+---
 
 ### 7. Débito Técnico
-O QA desempenha um papel crucial em identificar esses problemas. O ponto destacado é que o verdadeiro problema não é a falta de conhecimento, mas a falta de iniciativa em buscar saber mais, ou seja, a disposição de aprender é o que faz a diferença.
 
+- **Papel do QA**: Crucial na identificação de problemas
+- **Verdadeiro desafio**: Não é a falta de conhecimento, mas a falta de iniciativa em buscar saber mais
+- **Chave do sucesso**: Disposição para aprender constantemente
 
+---
+
+O QA desempenha um papel fundamental na garantia da qualidade do produto, combinando habilidades técnicas e interpessoais para identificar problemas, colaborar efetivamente com a equipe e contribuir para o sucesso do projeto.
