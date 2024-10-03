@@ -12,20 +12,20 @@
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](./Resumos/dia1.md)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](./Resumos/dia1.md)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)](./Resumos/dia7.md)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](./Resumos/dia8.md)
 
 ### Entregas e Resumos da Sprint
 
 - [Apresentação](../README.md)
-- [Resumo dia 1](./Resumos/dia1.md)
-- [Resumo dia 2](./Resumos/dia2.md)
-- [Resumo dia 3](./Resumos/dia3.md)
-- [Resumo dia 4](./Resumos/dia4.md)
-- [Resumo dia 5](./Resumos/dia5.md)
-- [Resumo dia 6](./Resumos/dia6.md)
-- [Resumo dia 7](./Resumos/dia7.md)
-- [Resumo dia 8](./Resumos/dia8.md)
-- [Resumo dia 9](./Resumos/dia9.md)
+- [Resumo dia 1 - Onboard](./Resumos/dia1.md)
+- [Resumo dia 2 - Planning Sprint 1](./Resumos/dia2.md)
+- [Resumo dia 3 - Fundamentos do teste de software](./Resumos/dia3.md)
+- [Resumo dia 4 - Fundamentos do teste de software](./Resumos/dia4.md)
+- [Resumo dia 5 - Fundamentos do teste de software + Myers e o princípio de pareto](./Resumos/dia5.md)
+- [Resumo dia 6 - Fundamentos do teste de software (Back-End)](./Resumos/dia6.md)
+- [Resumo dia 7 - SQL](./Resumos/dia7.md)
+- [Resumo dia 8 - NOSQL](./Resumos/dia8.md)
+- [Resumo dia 9 - CyberSecurity](./Resumos/dia9.md)
 
 ### Conteúdos da Sprint
 
@@ -50,6 +50,7 @@ Gostaria de expressar minha gratidão aos colegas que me ajudaram ao longo do Sp
 - **Layla Kethlen Ramos Apolinario**
 - **Renata Cardoso Mantovani**
 - **Gabriel Morais Pinto Costa**
+- **Raffael Queiroga**
 
 Obrigado por todo o apoio e colaboração!
 
